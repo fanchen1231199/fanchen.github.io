@@ -45,10 +45,7 @@ q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
-}
-{
-	box-sizing: border-box;
-}
+      }
 body{
 	max-width:1000px;
 	width:100%;
@@ -61,7 +58,7 @@ body{
 	margin-left:auto;
 	width:1100 px;
 	border-left: 80px;
-       border-right:80px
+    border-right:80px
 		}
 .main {
 	   width:75%;
@@ -72,15 +69,15 @@ body{
        border-right:80px;
        margin-right: 80px}
 .produce-image{
-	width:25%;
-    float:right;}
+	   width:25%;
+       float:right;}
 .logo{ 
-	  top:0;
-	  border:0 px;
+	   top:0;
+	   border:0 px;
       }
 article{
-	padding-top:190px;
-	}
+	   padding-top:190px;
+	  }
 .paragraph{max-width:1000px;
 	       width:40%;
 	       float:left;
