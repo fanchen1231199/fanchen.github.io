@@ -50,21 +50,39 @@ table {
 /* Add Styles Here */
 body{ padding-top: 0px; 
       padding-left:100px;
-      padding-bottom:50px;}
+      padding-bottom:50px;
+      line-height: 1.5}
 .introduction{ font-family: Din, san-serif;
 	           font-size: 32px;
 	           color:white;
 	           background-color:#EF4136;
 	           float:right;
 	           border-bottom:5000px #EF4136 solid;
-	           border-top:150px #EF4136 solid;
+	           border-top:300px #EF4136 solid;
 	           border-left:50px #EF4136 solid;
 	           border-right:80px #EF4136 solid;
+	           text-align:right;
+	           width:30%;
+	           position:fixed;
+	           right:0;
              }
-.quotation{ border-top:150px white solid;
+ .email{   font:white;
+           position:fixed;
+	       right:0;
+	       float:right;
+	       border-top: 20px #EF4136 solid;
+	       border-right:80px #EF4136 solid}
+.portfolio{width:53%;}
+p{ font-family: din,san san-serif;}
+.quotation{ 
             border-bottom: 50px white solid;
             }
-.poster{ border-bottom:50px white solid;}
+.poster{ border-bottom:80px white solid;}
 h2{ font-family:Acrom, san-serif;
     font-size:32px;
     color:#EF4136;}
+.city2{border-bottom:50px white solid;}
+.city3{border-bottom:50px white solid;}
+.bangkok{border-bottom:80px white solid;}
+.map2{border-bottom:50px white solid;}
+.map3{border-bottom:50px white solid;}
