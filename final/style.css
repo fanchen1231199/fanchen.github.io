@@ -67,14 +67,12 @@ body{ padding-top: 0px;
 	           padding-right:20px;
 	           ;
              }
- .email{ 
-           position:absolute;
-	       right:0;
+ .email{ font-size: 12px; 
 	       float:right;
-	       border-top: 50px #EF4136 solid;
-	       border-right:80px #EF4136 solid}
+	       }
 .portfolio{width:53%;}
 p{ font-family: din,san san-serif;}
+
 .quotation{ border-top: 50px white solid;
             border-bottom: 50px white solid;
             }
@@ -91,3 +89,12 @@ h2{ font-family:Acrom, san-serif;
 .painting{border-top:80px white solid;}
 .painting2{border-bottom:30px white solid;}
 .drawing{border-bottom:30px white solid;}
+.fineart{border-bottom:80px white solid;}
+h5 a{
+    padding: 10px 15px;
+    color: #EF4136;
+    text-decoration: underline;
+    margin-left: 250px;
+    font-family: Din, san-serif;
+    height: 50px;
+    }
