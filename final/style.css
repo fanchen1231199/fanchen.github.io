@@ -65,31 +65,47 @@ body{ padding-top: 0px;
 	           height:100%;
 	           padding-top:460px;
 	           padding-right:20px;
-	           ;
+	           box-sizing: border-box;
              }
- .email{ font-size: 12px; 
+.email{ font-size: 12px; 
 	       float:right;
 	       }
-.portfolio{width:53%;}
+.email a{ color:white;}
+.portfolio{width:65%;
+           padding-left: 10px;
+           padding-right: 100px;
+           box-sizing:border-box;}
 p{ font-family: din,san san-serif;}
 
 .quotation{ border-top: 50px white solid;
             border-bottom: 50px white solid;
+            width:100%;
             }
 .poster{ border-bottom:80px white solid;}
 h2{ font-family:Acrom, san-serif;
     font-size:32px;
     color:#EF4136;}
-.city2{border-bottom:30px white solid;}
-.city3{border-bottom:30px white solid;}
-.bangkok{border-bottom:80px white solid;}
-.map2{border-bottom:30px white solid;}
-.map3{border-bottom:30px white solid;}
+.city{width:100%;}
+.city2{border-bottom:30px white solid;
+       width:49.6%;}
+.city3{border-bottom:30px white solid;
+       width:49.6%;}
+.bangkok{border-bottom:80px white solid;
+         width:100%;}
+.map{width:100%;}
+.map2{border-bottom:30px white solid;
+      width:49.6%;}
+.map3{border-bottom:30px white solid;
+      width:49.6%;}
 
-.painting{border-top:80px white solid;}
-.painting2{border-bottom:30px white solid;}
-.drawing{border-bottom:30px white solid;}
-.fineart{border-bottom:80px white solid;}
+.painting{border-top:80px white solid;
+          width:100%;}
+.painting2{border-bottom:30px white solid;
+           width:49.6%;}
+.drawing{border-bottom:30px white solid;
+          width:49.6%;}
+.fineart{border-bottom:80px white solid;
+         width:100%;}
 h5 a{
     padding: 10px 15px;
     color: #EF4136;
